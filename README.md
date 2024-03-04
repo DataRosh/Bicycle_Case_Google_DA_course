@@ -1,5 +1,3 @@
-# DATA ANALYTICS PORTFOLIOS
-
 # 1. Cyclistic Bike Share Case Study
    
 This is one of the Google Data Analytics course capstone projects. This is focused on analyzing data for a bike share company that is seeking to maximise its revenue by converting casual riders to members. Casual riders are users who purchase single passes while members have annual subscriptions with the company. The analyst is expected to utilise data collected from the company on rider usage to develop marketing strategies aimed at converting casual riders to members. 
